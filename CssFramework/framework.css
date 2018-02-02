@@ -1,0 +1,34 @@
+/*
+  Something.css  V1.0.0
+  Created by Gareth Jones & Tom Whitaker
+  www.somethingwbsite.io
+  MIT License
+  Mit liscence link
+  date published
+*/
+
+/* ===== CONTENTS =======*/
+/* Base Document Styles
+  Grid / Layout
+  Typography
+  Colour Pallettes
+  Buttons
+  Forms
+  Responsive / Mobile */
+/*=======================*/
+
+/* ===================*/
+/*  DOCUMENT STYLES   */
+/* ================== */
+
+* {
+  box-sizing: border-box;
+}
+
+@media (min-width: 500px);
+ {
+}
+
+/* ===================*/
+/*  DOCUMENT STYLES   */
+/* ================== */
