@@ -29,6 +29,32 @@
  {
 }
 
-/* ===================*/
-/*  DOCUMENT STYLES   */
-/* ================== */
+/* ====================*/
+/*  Colour Pallettes   */
+/* =================== */
+
+.darkpall {
+  background-color: #1c1c1c;
+  color: ghostwhite;
+}
+
+.darkpall > h1,
+h2,
+h3,
+h4 {
+  color: #b0976d;
+}
+
+.lightpall {
+}
+
+.mint0 .mint1 .mint2 .mint3 .mint4 {
+}
+
+.font-dark {
+  color: #16161d;
+}
+
+.font-light {
+  color: ghostwhite;
+}
