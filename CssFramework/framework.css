@@ -46,6 +46,15 @@ h4 {
 }
 
 .lightpall {
+  background-color: #ghostwhite;
+  color: #16161d;
+}
+
+.lightpall > h1,
+h2,
+h3,
+h4 {
+  color: #565658;
 }
 
 .mint0 .mint1 .mint2 .mint3 .mint4 {
