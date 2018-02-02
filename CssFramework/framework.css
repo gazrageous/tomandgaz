@@ -31,7 +31,6 @@
 /* ====================*/
 /*  Colour Pallettes   */
 /* =================== */
-<<<<<<< HEAD
 /* Dragon Slayer Green */
 .dsGreen{
   background-color: #004029;
@@ -79,38 +78,6 @@
   background-color: #81e0e5;
 }
 .dsBlue-4{
-=======
-/* Green One */
-.green {
-  background-color: #004029;
-}
-.green-1 {
-  background-color: #007f52;
-}
-.green-2 {
-  background-color: #00bf7b;
-}
-.green-3 {
-  background-color: #00e594;
-}
-.green-4 {
-  background-color: #00ffa5;
-}
-/* Dragon Slayer Purple */
-.dsPurple {
-  background-color: #477b7e;
-}
-.dsPurple-1 {
-  background-color: #559396;
-}
-.dsPurple-2 {
-  background-color: #6cbbbf;
-}
-.dsPurple-3 {
-  background-color: #81e0e5;
-}
-.dsPurple-4 {
->>>>>>> c501a86d509b6964d39ed0d08df01f7e01d0f77f
   background-color: #90f9ff;
 }
 
