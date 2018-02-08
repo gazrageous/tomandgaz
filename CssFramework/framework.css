@@ -32,69 +32,69 @@
 /*  Colour Pallettes   */
 /* =================== */
 /* WarlockGreen */
-.wlck{
+.wlck {
   background-color: #004029;
 }
-.wlck-1{
+.wlck-1 {
   background-color: #007f52;
 }
-.wlck-2{
+.wlck-2 {
   background-color: #00bf7b;
 }
-.wlck-3{
+.wlck-3 {
   background-color: #00e594;
 }
-.wlck-4{
+.wlck-4 {
   background-color: #00ffa5;
 }
 /* Necromancer Purple */
-.necro{
+.necro {
   background-color: #604a7e;
 }
-.necro-1{
+.necro-1 {
   background-color: #725896;
 }
-.necro-2{
+.necro-2 {
   background-color: #9270bf;
 }
-.necro-3{
+.necro-3 {
   background-color: #af87e5;
 }
-.necro-4{
+.necro-4 {
   background-color: #c296ff;
 }
 
 /* Dragon Scale Blue */
-.dScale{
+.dScale {
   background-color: #477b7e;
 }
-.dScale-1{
+.dScale-1 {
   background-color: #559396;
 }
-.dScale-2{
+.dScale-2 {
   background-color: #6cbbbf;
 }
-.dScale-3{
+.dScale-3 {
   background-color: #81e0e5;
 }
-.dScale-4{
+.dScale-4 {
   background-color: #90f9ff;
 }
 
 /* Phoenix Orange */
-.phnx{
+.phnx {
   background-color: #f88000;
 }
-.phnx-1{
+.phnx-1 {
   background-color: #ec8606;
 }
-.phnx-2{
+.phnx-2 {
   background-color: #ed8f0d;
 }
-.phnx-3{
+.phnx-3 {
   background-color: #ee9813;
 }
-.phnx-4{
+.phnx-4 {
   background-color: #f0a11a;
 }
 
@@ -128,6 +128,59 @@ h4 {
 
 .font-light {
   color: ghostwhite;
+}
+
+/* ====================*/
+/*        Buttons:     */
+/* =================== */
+
+button {
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  height: 50px;
+  transition: border-radius 0.3s, height 0.3s, transform 5s;
+  margin: 20px;
+}
+
+button:hover {
+  border-radius: 100%;
+  transform: rotate(360deg);
+  height: 100px;
+  text-transform: none;
+  cursor: pointer;
+  color: transparent;
+}
+
+button.wlck:hover,
+button.wlck-1:hover,
+button.wlck-2:hover,
+button.wlck-3:hover,
+button.wlck-4:hover {
+  background: linear-gradient(#004029, #00ffa5);
+}
+button.necro:hover,
+button.necro-1:hover,
+button.necro-2:hover,
+button.necro-3:hover,
+button.necro-4:hover {
+  background: linear-gradient(#604a7e, #c296ff);
+}
+
+button.dScale:hover,
+button.dScale-1:hover,
+button.Scale-2:hover,
+button.dScale-3:hover,
+button.dScale-4:hover {
+  background: linear-gradient(#477b7e, #90f9ff);
+}
+
+button.phnx:hover,
+button.phnx-1:hover,
+button.phnx-2:hover,
+button.phnx-3:hover,
+button.phnx-4:hover {
+  background: linear-gradient(#f88000, #f0a11a);
 }
 
 /* ====================*/
