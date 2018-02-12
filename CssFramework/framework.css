@@ -1,5 +1,5 @@
 /*
-  Something.css  V1.0.0
+  wizard.css  V1.0.0
   Created by Gareth Jones & Tom Whitaker
   www.somethingwbsite.io
   MIT License
@@ -26,6 +26,70 @@
 }
 
 @media (min-width: 500px) {
+}
+
+/* ====================*/
+/*  Grid / Layout      */
+/* =================== */
+
+.a {
+  width: 8.333333vw;
+  float: left;
+}
+
+.ab {
+  width: 16.666666vw;
+  float: left;
+}
+
+.abr {
+  width: 25vw;
+  float: left;
+}
+
+.abra {
+  width: 33.333333vw;
+  float: left;
+}
+
+.abrac {
+  width: 41.666666vw;
+  float: left;
+}
+
+.abraca {
+  width: 50vw;
+  float: left;
+}
+
+.abracad {
+  width: 58.333333vw;
+  float: left;
+}
+
+.abracada {
+  width: 66.666666vw;
+  float: left;
+}
+
+.abracadab {
+  width: 75vw;
+  float: left;
+}
+
+.abracadabr {
+  width: 83.33333vw;
+  float: left;
+}
+
+.abracadabra {
+  width: 91.666666vw;
+  float: left;
+}
+
+.abracadabra- {
+  width: 100vw;
+  float: left;
 }
 
 /* ====================*/
