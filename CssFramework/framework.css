@@ -28,6 +28,13 @@
 @media (min-width: 500px) {
 }
 
+body {
+  border: none;
+  margin: none;
+  padding: none;
+  text-align: center;
+}
+
 /* ====================*/
 /*  Grid / Layout      */
 /* =================== */
@@ -35,16 +42,19 @@
 .h {
   width: 10vw;
   float: left;
+  clear: both;
 }
 
 .ho {
   width: 20vw;
   float: left;
+  clear: both;
 }
 
 .hoc {
   width: 30vw;
   float: left;
+  clear: both;
 }
 
 .hocu {
@@ -58,7 +68,7 @@
 }
 
 .hocusp {
-  width: 60w;
+  width: 60vw;
   float: left;
 }
 
@@ -124,6 +134,7 @@
 .ocuspocus {
   width: 90vw;
   float: right;
+  clear: both;
 }
 
 /* ====================*/
