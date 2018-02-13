@@ -32,64 +32,98 @@
 /*  Grid / Layout      */
 /* =================== */
 
-.a {
-  width: 8.333333vw;
+.h {
+  width: 10vw;
   float: left;
 }
 
-.ab {
-  width: 16.666666vw;
+.ho {
+  width: 20vw;
   float: left;
 }
 
-.abr {
-  width: 25vw;
+.hoc {
+  width: 30vw;
   float: left;
 }
 
-.abra {
-  width: 33.333333vw;
+.hocu {
+  width: 40vw;
   float: left;
 }
 
-.abrac {
-  width: 41.666666vw;
-  float: left;
-}
-
-.abraca {
+.hocus {
   width: 50vw;
   float: left;
 }
 
-.abracad {
-  width: 58.333333vw;
+.hocusp {
+  width: 60w;
   float: left;
 }
 
-.abracada {
-  width: 66.666666vw;
+.hocuspo {
+  width: 70vw;
   float: left;
 }
 
-.abracadab {
-  width: 75vw;
+.hocuspoc {
+  width: 80vw;
   float: left;
 }
 
-.abracadabr {
-  width: 83.33333vw;
+.hocuspocu {
+  width: 90vw;
   float: left;
 }
 
-.abracadabra {
-  width: 91.666666vw;
-  float: left;
-}
-
-.abracadabra- {
+.hocuspocus {
   width: 100vw;
   float: left;
+}
+
+.s {
+  width: 10vw;
+  float: right;
+}
+
+.us {
+  width: 20vw;
+  float: right;
+}
+
+.cus {
+  width: 30vw;
+  float: right;
+}
+
+.ocus {
+  width: 40vw;
+  float: right;
+}
+
+.pocus {
+  width: 50vw;
+  float: right;
+}
+.spocus {
+  width: 60vw;
+  float: right;
+}
+
+.uspocus {
+  width: 70vw;
+  float: right;
+}
+
+.cuspocus {
+  width: 80vw;
+  float: right;
+}
+
+.ocuspocus {
+  width: 90vw;
+  float: right;
 }
 
 /* ====================*/
