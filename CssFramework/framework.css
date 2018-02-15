@@ -35,6 +35,10 @@ body {
   text-align: center;
 }
 
+div {
+  margin: 0;
+}
+
 /* ====================*/
 /*  Grid / Layout      */
 /* =================== */
@@ -42,19 +46,16 @@ body {
 .h {
   width: 10vw;
   float: left;
-  clear: both;
 }
 
 .ho {
   width: 20vw;
   float: left;
-  clear: both;
 }
 
 .hoc {
   width: 30vw;
   float: left;
-  clear: both;
 }
 
 .hocu {
@@ -127,14 +128,30 @@ body {
 }
 
 .cuspocus {
-  width: 80vw;
+  min-width: 80vw;
   float: right;
 }
 
 .ocuspocus {
   width: 90vw;
   float: right;
-  clear: both;
+}
+
+/* ====================*/
+/*  Typography         */
+/* =================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Alegreya SC", serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
 }
 
 /* ====================*/
