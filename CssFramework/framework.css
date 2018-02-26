@@ -43,97 +43,110 @@ div {
 /*  Grid / Layout      */
 /* =================== */
 
+.container {
+  width: 70%;
+  max-width: 70%;
+}
+
 .h {
-  width: 10vw;
+  width: 10%;
   float: left;
 }
 
 .ho {
-  width: 20vw;
+  width: 20%;
   float: left;
 }
 
 .hoc {
-  width: 30vw;
+  width: 30%;
   float: left;
 }
 
 .hocu {
-  width: 40vw;
+  width: 40%;
   float: left;
 }
 
 .hocus {
-  width: 50vw;
+  width: 50%;
   float: left;
 }
 
 .hocusp {
-  width: 60vw;
+  width: 60%;
   float: left;
 }
 
 .hocuspo {
-  width: 70vw;
+  width: 70%;
   float: left;
 }
 
 .hocuspoc {
-  width: 80vw;
+  width: 80%;
   float: left;
 }
 
 .hocuspocu {
-  width: 90vw;
+  width: 90%;
   float: left;
 }
 
 .hocuspocus {
-  width: 100vw;
+  width: 100%;
   float: left;
 }
 
 .s {
-  width: 10vw;
+  display: inline-block;
+  width: 10%;
   float: right;
 }
 
 .us {
-  width: 20vw;
+  display: inline-block;
+  width: 20%;
   float: right;
 }
 
 .cus {
-  width: 30vw;
+  display: inline-block;
+  width: 30%;
   float: right;
 }
 
 .ocus {
-  width: 40vw;
+  display: inline-block;
+  width: 40%;
   float: right;
 }
 
 .pocus {
-  width: 50vw;
+  display: inline-block;
+  width: 50%;
   float: right;
 }
 .spocus {
-  width: 60vw;
+  width: 60%;
   float: right;
 }
 
 .uspocus {
-  width: 70vw;
+  display: inline-block;
+  width: 70%;
   float: right;
 }
 
 .cuspocus {
-  min-width: 80vw;
+  display: inline-block;
+  min-width: 80%;
   float: right;
 }
 
 .ocuspocus {
-  width: 90vw;
+  display: inline-block;
+  width: 90%;
   float: right;
 }
 
